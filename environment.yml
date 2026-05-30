@@ -1,0 +1,7 @@
+name: hit-mv-shrc203-combined
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - pyserial=3.5
+  - numpy
